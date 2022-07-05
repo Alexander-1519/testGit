@@ -6,5 +6,11 @@ public class GitMain {
         System.out.println();
         System.out.println();
         System.out.println("Hello, President!");
+
+        int a = 5;
+        int b = 6;
+
+        int result = a + b;
+        System.out.println("result = " + result);
     }
 }
