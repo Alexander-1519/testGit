@@ -4,6 +4,7 @@ public class GitMain {
         System.out.println("Hello, Alex!");
         System.out.println("Hello, Roslik!");
         System.out.println();
+        System.out.println("sdklfjsdf");
         System.out.println();
         System.out.println("Hello, President!");
     }
